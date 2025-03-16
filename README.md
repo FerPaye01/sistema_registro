@@ -3,5 +3,6 @@
 En construcción
 <h2>¿Cómo desplegarlo?</h2>
 Para ejecutar el sistmea deebes installar react
+--npm install react--
 <h2>¿Cómo utilizarlo?</h2>
 <h2>Ayuda</h2>
